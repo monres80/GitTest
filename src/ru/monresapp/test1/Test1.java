@@ -6,7 +6,7 @@ public class Test1 {
     }
 
     public static void task1(){
-        System.out.println("Тест 1");
+        System.out.println("Test 1");
     }
 }
 
